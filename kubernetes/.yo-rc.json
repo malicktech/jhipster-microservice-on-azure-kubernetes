@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "deploymentType": "kubernetes",
+    "gatewayType": "zuul",
+    "monitoring": "no",
+    "directoryPath": "../",
+    "appsFolders": ["store", "invoice", "notification"],
+    "clusteredDbApps": [],
+    "consoleOptions": [],
+    "serviceDiscoveryType": "eureka",
+    "dockerRepositoryName": "citizendiop",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "default",
+    "kubernetesServiceType": "LoadBalancer",
+    "ingressDomain": "",
+    "istio": false,
+    "jwtSecretKey": "YmQ4MzhhNGMyZGQ2ZGVmM2JlNzQ1MTUxZjk2ZjRiOWE1NDhkZjVmNDk1M2Y3ZDQxZDgzOTQ0NTc4MGMyNGRjZmNlYzg0ODk4OWFmNzg2MDZiOWE0ZGExNTdhMzgyNDM4MTYxZg=="
+  }
+}

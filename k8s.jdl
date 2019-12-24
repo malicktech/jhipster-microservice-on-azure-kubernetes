@@ -2,11 +2,10 @@ deployment {
   deploymentType kubernetes
   directoryPath "../"
   appsFolders [store, invoice, notification]
-  dockerRepositoryName "citizendiop"
+  dockerRepositoryName "citizendiop" // use your own docker repo username here
   dockerPushCommand "docker push"
   serviceDiscoveryType eureka
-  dockerRepositoryName "deepu105" // use your own docker repo username here
-  kubernetesNamespace jhipster
+  kubernetesNamespace default
   kubernetesServiceType LoadBalancer
   monitoring no
 }
