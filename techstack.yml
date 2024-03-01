@@ -1,0 +1,1533 @@
+repo_name: malicktech/jhipster-microservice-on-azure-kubernetes
+report_id: 03dd33007f8ca00850387b901e4feac2
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-01T22:45:03+00:00'
+requested_by: malicktech
+provider: github
+branch: master
+detected_tools_count: 120
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: React Hot Loader
+  description: Tweak React components in real time
+  website_url: http://gaearon.github.io/react-hot-loader/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: reactstrap
+  description: Easy to use React Bootstrap 4 components compatible with React
+  website_url: https://reactstrap.github.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8935/0Xm63ShM_400x400__1_.jpg
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: redux-thunk
+  description: Thunk middleware for Redux
+  website_url: https://github.com/gaearon/redux-thunk
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5448/13142323.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Cloud DB for Mysql
+  description: Easily setup and manage the MySQL database service
+  website_url: https://www.ncloud.com/product/database/cloudDbMysql
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: SQL Database as a Service
+  image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes
+  detection_source: Repo Metadata
+- name: Docker Compose
+  description: Define and run multi-container applications with Docker
+  website_url: https://github.com/docker/compose
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Enzyme
+  description: JavaScript Testing utilities for React, by Airbnb
+  website_url: https://enzymejs.github.io/enzyme/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/4488/default_87e6ca3fa146a959af95ccf3df1ec550eb434129.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/invoice/src/test/resources/logback.xml
+  detection_source: invoice/src/test/resources/logback.xml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:38:09.000000000 Z
+- name: Logstash
+  description: Collect, Parse, &amp; Enrich Data
+  website_url: http://logstash.net/
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/1683/preview.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Monit
+  description: A free, open-source process supervision tool
+  website_url: https://mmonit.com
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2986/MonitLogo.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/invoice/src/main/docker/prometheus/prometheus.yml
+  detection_source: invoice/src/main/docker/prometheus/prometheus.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:38:09.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/central-server-config/application.yml
+  detection_source: docker-compose/central-server-config/application.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: Invoice Dragon
+  description: An open source app to create PDF invoices
+  website_url: https://invoicedragon.com/
+  open_source: true
+  hosted_saas: false
+  category: Payments
+  sub_category: Billing and Subscriptions
+  image_url: https://img.stackshare.io/service/101972/default_ed1f41c1d3622fbc61fca5fbb21a8f59e818f939.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: Mongo
+  description: Heroku provides services and tools to build, run, and scale web applications.
+    Follow @herokustatus for platform updates. A @salesforce company.
+  website_url: http://wedesignapps.herokuapp.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes
+  detection_source: Repo Metadata
+- name: Software & Database Migration
+  description: We offer software and database migration services, including cloud
+    and mobile porting.
+  website_url: http://worpcloud.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/426/fDAGZwLE_normal.jpeg
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/docker-compose/docker-compose.yml
+  detection_source: docker-compose/docker-compose.yml
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 19:09:02.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@fortawesome/fontawesome-svg-core"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-svg-core
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@fortawesome/free-solid-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-solid-svg-icons
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@fortawesome/react-fontawesome"
+  description: Official React component for Font Awesome 5
+  package_url: https://www.npmjs.com/@fortawesome/react-fontawesome
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16936/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/chai"
+  description: TypeScript definitions for chai
+  package_url: https://www.npmjs.com/@types/chai
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/enzyme"
+  description: TypeScript definitions for Enzyme
+  package_url: https://www.npmjs.com/@types/enzyme
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16307/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/react-redux"
+  description: TypeScript definitions for react-redux
+  package_url: https://www.npmjs.com/@types/react-redux
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16687/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/redux"
+  description: Stub TypeScript definitions entry for Redux
+  package_url: https://www.npmjs.com/@types/redux
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17452/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/selenium-webdriver"
+  description: TypeScript definitions for Selenium WebDriverJS
+  package_url: https://www.npmjs.com/@types/selenium-webdriver
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17263/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@types/webpack-env"
+  description: TypeScript definitions for webpack
+  package_url: https://www.npmjs.com/@types/webpack-env
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16614/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: browser-sync-webpack-plugin
+  description: BrowserSync and Webpack integration
+  package_url: https://www.npmjs.com/browser-sync-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18027/default_7826192e433c1035ad42082e7f65b825c34bb056.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: cache-loader
+  description: Caches the result of following loaders on disk
+  package_url: https://www.npmjs.com/cache-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17685/default_43c2244142d473ead35e8e5c22850dfec0a06c35.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: chai-as-promised
+  description: Extends Chai with assertions about promises
+  package_url: https://www.npmjs.com/chai-as-promised
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15970/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: enzyme-adapter-react-16
+  description: JavaScript Testing utilities for React
+  package_url: https://www.npmjs.com/enzyme-adapter-react-16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15959/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: enzyme-to-json
+  description: Convert enzyme wrapper to a format compatible with Jest snapshot
+  package_url: https://www.npmjs.com/enzyme-to-json
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16252/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: eslint-loader
+  description: ESlint loader for webpack
+  package_url: https://www.npmjs.com/eslint-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15889/default_724d5bc657ec09174564f19f2a5d26098549124a.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: fork-ts-checker-webpack-plugin
+  description: Runs typescript type checker and linter on separate process
+  package_url: https://www.npmjs.com/fork-ts-checker-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16622/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: friendly-errors-webpack-plugin
+  description: Recognizes certain classes of webpack errors and cleans
+  package_url: https://www.npmjs.com/friendly-errors-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16091/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: identity-obj-proxy
+  description: An identity object using ES6 proxies
+  package_url: https://www.npmjs.com/identity-obj-proxy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16206/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: jest-junit
+  description: A jest reporter that generates junit xml files
+  package_url: https://www.npmjs.com/jest-junit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: json-loader
+  description: Json loader module for webpack
+  package_url: https://www.npmjs.com/json-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: optimize-css-assets-webpack-plugin
+  description: A Webpack plugin to optimize \ minimize CSS assets
+  package_url: https://www.npmjs.com/optimize-css-assets-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15964/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: react-loadable
+  description: A higher order component for loading components with promises
+  package_url: https://www.npmjs.com/react-loadable
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17269/default_9b05b1c3b13fc328bf76b8d3fea01ff4688c0c1d.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: react-toastify
+  description: React notification made easy
+  package_url: https://www.npmjs.com/react-toastify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: react-transition-group
+  description: A react component toolset for managing animations
+  package_url: https://www.npmjs.com/react-transition-group
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16380/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: redux-devtools
+  description: Redux DevTools with hot reloading and time travel
+  package_url: https://www.npmjs.com/redux-devtools
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17051/default_50357c490b205882dcfb608fd3c74b446186c21e.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: redux-devtools-dock-monitor
+  description: A resizable and movable dock for Redux DevTools monitors
+  package_url: https://www.npmjs.com/redux-devtools-dock-monitor
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18001/default_ab659b5159df20d1c32f07b936d63628134f5b3d.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: redux-devtools-log-monitor
+  description: The default tree view monitor for Redux DevTools
+  package_url: https://www.npmjs.com/redux-devtools-log-monitor
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18108/image.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: redux-mock-store
+  description: A mock store for testing your redux async action creators and middleware
+  package_url: https://www.npmjs.com/redux-mock-store
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16721/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: source-map-loader
+  description: Extracts inlined source map and offers it to webpack
+  package_url: https://www.npmjs.com/source-map-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16190/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: terser-webpack-plugin
+  description: Terser plugin for webpack
+  package_url: https://www.npmjs.com/terser-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: thread-loader
+  description: Runs the following loaders in a worker pool
+  package_url: https://www.npmjs.com/thread-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17547/default_809f38c280e61a39329e5ca5d8a16d8966425895.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: to-string-loader
+  description: To-string loader for webpack
+  package_url: https://www.npmjs.com/to-string-loader
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16800/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: webdriver-manager
+  description: A selenium server and browser driver manager for your end to end tests
+  package_url: https://www.npmjs.com/webdriver-manager
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18098/image.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: webpack-merge
+  description: Variant of merge that's useful for webpack configuration
+  package_url: https://www.npmjs.com/webpack-merge
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: webpack-notifier
+  description: Webpack + node-notifier = build status system notifications
+  package_url: https://www.npmjs.com/webpack-notifier
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17675/default_e87994647b10b361432e73d1831e5982307760e2.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: workbox-webpack-plugin
+  description: A plugin for your Webpack build process
+  package_url: https://www.npmjs.com/workbox-webpack-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16470/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
+- name: write-file-webpack-plugin
+  description: Forces webpack-dev-server to write bundle files to the file system
+  package_url: https://www.npmjs.com/write-file-webpack-plugin
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17727/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
+  detection_source_url: https://github.com/malicktech/jhipster-microservice-on-azure-kubernetes/blob/master/store/package.json
+  detection_source: store/package.json
+  last_updated_by: Malick
+  last_updated_on: 2019-12-24 17:43:09.000000000 Z
